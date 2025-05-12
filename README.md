@@ -27,7 +27,7 @@ To run QueryBot locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/querybot.git
+    git clone https://github.com/Nidharshana0325/DoubtBot.git
     ```
 
 2. Install the required dependencies:
