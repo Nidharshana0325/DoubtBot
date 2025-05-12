@@ -1,2 +1,2 @@
-# DoubtBot_Ekadyu
+# DoubtBot
 pip install fastapi uvicorn transformers torch
